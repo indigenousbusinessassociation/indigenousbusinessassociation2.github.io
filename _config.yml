@@ -11,11 +11,11 @@ title: IBA
 # Description of the Site
 description: Indigenous Business Association
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/meta.jpg
+site-image: https://i.ibb.co/hY3BQWV/logo-v2-trimmed.png
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://i.ibb.co/hY3BQWV/logo-v2-trimmed.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://www.ucalgary.ca/hunter-hub/sites/default/files/styles/ucws_hero_cta_desktop/public/2021-07/Skyline-1920x768.jpg?itok=Lmlcs0QH
