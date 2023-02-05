@@ -61,27 +61,6 @@ a.navbar-item.is-active {
         content: "";
     }
 }
-
-#icon {
-    background: rgb(0, 0, 0)
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=0);
-
-    &::before {
-        filter: blur(0rem);
-        background-image: url({{site.logo-image}});
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: 20%;
-        background-attachment: local;
-        top: 0px;
-        right: 0px;
-        bottom: 0px;
-        left: 0px;
-        position: absolute;
-        opacity: 0;
-        content: "";
-    }
-}
 .title {
     margin: auto 0.75rem!important;
 }
