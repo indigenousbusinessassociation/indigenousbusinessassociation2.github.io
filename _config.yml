@@ -20,7 +20,7 @@ favicon-url:
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://www.ucalgary.ca/hunter-hub/sites/default/files/styles/ucws_hero_cta_desktop/public/2021-07/Skyline-1920x768.jpg?itok=Lmlcs0QH
 # URL of Logo
-logo-image:
+logo-image: https://i.ibb.co/hY3BQWV/logo-v2-trimmed.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
